@@ -23,11 +23,10 @@ Buatlah sebuah aplikasi menggunakan bahasa Java.
  - Sabtu 11 Juni 2016
 
 ####Penggumpulan :
-- Tulis judul dan deskripsi aplikasi pada file **README.md** (edit file ini, ganti semua isinya dengan judul dan deskripsi aplikasi anda)
+- Tulis judul dan deskripsi aplikasi pada file **about.md**
 - Isi data anggota kelompok di file **data-kelompok.md**
 - Tambahkan screenshot, terserah bagian mana, bagian yang menurut kalian paling baik (lebih dari satu kalau bisa) pada folder **screenshot**
 - Source code (langsung folder projectnya) ditambahkan di folder **src**
-- Tulis kesan atau hal menarik saat mengerjakan projek ini atau saat praktikum atau bebas apa saja di file **kesan.md** : )
 
 
 **Terima kasih atas kerjasamanya selama satu semester ini : )**
