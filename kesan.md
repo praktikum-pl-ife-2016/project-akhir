@@ -1,0 +1,1 @@
+Kesulitan ada di bagian pembuatan dataBase karena belum pernah diajarkan sebelumnya. Tapi akhirnya bisa.
