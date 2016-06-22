@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.9" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="48" pref="48" max="-2" attributes="0"/>
+                      <Component id="jLabel3" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="48" pref="48" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="cLamaSewa3" min="-2" pref="190" max="-2" attributes="0"/>
+                          <Component id="cLamaSewa2" min="-2" pref="190" max="-2" attributes="0"/>
+                          <Component id="cLamaSewa" min="-2" pref="190" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="150" pref="150" max="-2" attributes="0"/>
+                      <Component id="Tambahan2" min="-2" pref="178" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="141" pref="141" max="-2" attributes="0"/>
+                      <Component id="Tambahan3" min="-2" pref="178" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="48" pref="48" max="-2" attributes="0"/>
+                      <Component id="jLabel4" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="44" pref="44" max="-2" attributes="0"/>
+                      <Component id="TotalHarga" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="48" pref="48" max="-2" attributes="0"/>
+                      <Component id="jLabel5" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="44" pref="44" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="tgl31" min="-2" max="-2" attributes="0"/>
+                          <Component id="tgl30" min="-2" max="-2" attributes="0"/>
+                          <Component id="tgl29" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="18" pref="18" max="-2" attributes="0"/>
+                      <Component id="Bulan" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+                      <Component id="Tahun" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="50" pref="50" max="-2" attributes="0"/>
+                      <Component id="Back" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="61" pref="61" max="-2" attributes="0"/>
+                      <Component id="Home" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="59" pref="59" max="-2" attributes="0"/>
+                      <Component id="Next" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="174" max="-2" attributes="0"/>
+                      <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="48" pref="48" max="-2" attributes="0"/>
+                      <Component id="jLabel2" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="43" pref="43" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="judul" min="-2" pref="169" max="-2" attributes="0"/>
+                          <Component id="Tambahan1" min="-2" pref="177" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+              </Group>
+              <EmptySpace pref="74" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <EmptySpace min="21" pref="21" max="-2" attributes="0"/>
+              <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="6" pref="6" max="-2" attributes="0"/>
+              <Component id="judul" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="19" pref="19" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="2" pref="2" max="-2" attributes="0"/>
+                      <Component id="jLabel3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Component id="cLamaSewa3" min="-2" max="-2" attributes="0"/>
+                  <Component id="cLamaSewa2" min="-2" max="-2" attributes="0"/>
+                  <Component id="cLamaSewa" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="17" pref="17" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="jLabel2" min="-2" max="-2" attributes="0"/>
+                  <Component id="Tambahan1" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="6" pref="6" max="-2" attributes="0"/>
+              <Component id="Tambahan2" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="6" pref="6" max="-2" attributes="0"/>
+              <Component id="Tambahan3" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="18" pref="18" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="jLabel4" min="-2" max="-2" attributes="0"/>
+                  <Component id="TotalHarga" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="17" pref="17" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="tgl31" min="-2" max="-2" attributes="0"/>
+                  <Component id="tgl30" min="-2" max="-2" attributes="0"/>
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="1" pref="1" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="jLabel5" min="-2" max="-2" attributes="0"/>
+                          <Component id="tgl29" min="-2" max="-2" attributes="0"/>
+                          <Component id="Bulan" min="-2" max="-2" attributes="0"/>
+                          <Component id="Tahun" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+              </Group>
+              <EmptySpace min="19" pref="19" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="Back" min="-2" max="-2" attributes="0"/>
+                  <Component id="Home" min="-2" max="-2" attributes="0"/>
+                  <Component id="Next" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace pref="33" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="18" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="HARGA"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="judul">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="18" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="KAMAR REGULER"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Lama Sewa"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JComboBox" name="cLamaSewa">
+      <Properties>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="3">
+            <StringItem index="0" value="3 bulan ( Rp. 1.500.000 )"/>
+            <StringItem index="1" value="6 bulan ( Rp. 3.000.000 )"/>
+            <StringItem index="2" value="12 bulan ( Rp. 5.500.000 )"/>
+          </StringArray>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="itemStateChanged" listener="java.awt.event.ItemListener" parameters="java.awt.event.ItemEvent" handler="cLamaSewaItemStateChanged"/>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="cLamaSewaActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Tambahan"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="Tambahan1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value=" "/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="Tambahan2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value=" "/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="Tambahan3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value=" "/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel4">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Total Harga"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="TotalHarga">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="jLabel5"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="Back">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="BACK"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="BackActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="Home">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="HOME"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="HomeActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="Next">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="NEXT"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="NextActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JComboBox" name="cLamaSewa2">
+      <Properties>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="3">
+            <StringItem index="0" value="3 bulan ( Rp. 2.400.000 )"/>
+            <StringItem index="1" value="6 bulan ( Rp. 4.800.000 )"/>
+            <StringItem index="2" value="12 bulan ( Rp. 9.000.000 )"/>
+          </StringArray>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="itemStateChanged" listener="java.awt.event.ItemListener" parameters="java.awt.event.ItemEvent" handler="cLamaSewa2ItemStateChanged"/>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="cLamaSewa2ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JComboBox" name="cLamaSewa3">
+      <Properties>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="3">
+            <StringItem index="0" value="3 bulan ( Rp. 3.600.000 )"/>
+            <StringItem index="1" value="6 bulan ( Rp. 7.200.000 )"/>
+            <StringItem index="2" value="12 bulan ( Rp. 14.000.000 )"/>
+          </StringArray>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="itemStateChanged" listener="java.awt.event.ItemListener" parameters="java.awt.event.ItemEvent" handler="cLamaSewa3ItemStateChanged"/>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="cLamaSewa3ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel5">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Mulai Huni"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JComboBox" name="tgl31">
+      <Properties>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="31">
+            <StringItem index="0" value="01"/>
+            <StringItem index="1" value="02"/>
+            <StringItem index="2" value="03"/>
+            <StringItem index="3" value="04"/>
+            <StringItem index="4" value="05"/>
+            <StringItem index="5" value="06"/>
+            <StringItem index="6" value="07"/>
+            <StringItem index="7" value="08"/>
+            <StringItem index="8" value="09"/>
+            <StringItem index="9" value="10"/>
+            <StringItem index="10" value="11"/>
+            <StringItem index="11" value="12"/>
+            <StringItem index="12" value="13"/>
+            <StringItem index="13" value="14"/>
+            <StringItem index="14" value="15"/>
+            <StringItem index="15" value="16"/>
+            <StringItem index="16" value="17"/>
+            <StringItem index="17" value="18"/>
+            <StringItem index="18" value="19"/>
+            <StringItem index="19" value="20"/>
+            <StringItem index="20" value="21"/>
+            <StringItem index="21" value="22"/>
+            <StringItem index="22" value="23"/>
+            <StringItem index="23" value="24"/>
+            <StringItem index="24" value="25"/>
+            <StringItem index="25" value="26"/>
+            <StringItem index="26" value="27"/>
+            <StringItem index="27" value="28"/>
+            <StringItem index="28" value="29"/>
+            <StringItem index="29" value="30"/>
+            <StringItem index="30" value="31"/>
+          </StringArray>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="tgl31ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JComboBox" name="Bulan">
+      <Properties>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="12">
+            <StringItem index="0" value="Jan"/>
+            <StringItem index="1" value="Feb"/>
+            <StringItem index="2" value="Mar"/>
+            <StringItem index="3" value="Apr"/>
+            <StringItem index="4" value="Mei"/>
+            <StringItem index="5" value="Jun"/>
+            <StringItem index="6" value="Jul"/>
+            <StringItem index="7" value="Ags"/>
+            <StringItem index="8" value="Sep"/>
+            <StringItem index="9" value="Okt"/>
+            <StringItem index="10" value="Nov"/>
+            <StringItem index="11" value="Des"/>
+          </StringArray>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="BulanActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JComboBox" name="Tahun">
+      <Properties>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="2">
+            <StringItem index="0" value="2016"/>
+            <StringItem index="1" value="2017"/>
+          </StringArray>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="TahunActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JComboBox" name="tgl30">
+      <Properties>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="30">
+            <StringItem index="0" value="01"/>
+            <StringItem index="1" value="02"/>
+            <StringItem index="2" value="03"/>
+            <StringItem index="3" value="04"/>
+            <StringItem index="4" value="05"/>
+            <StringItem index="5" value="06"/>
+            <StringItem index="6" value="07"/>
+            <StringItem index="7" value="08"/>
+            <StringItem index="8" value="09"/>
+            <StringItem index="9" value="10"/>
+            <StringItem index="10" value="11"/>
+            <StringItem index="11" value="12"/>
+            <StringItem index="12" value="13"/>
+            <StringItem index="13" value="14"/>
+            <StringItem index="14" value="15"/>
+            <StringItem index="15" value="16"/>
+            <StringItem index="16" value="17"/>
+            <StringItem index="17" value="18"/>
+            <StringItem index="18" value="19"/>
+            <StringItem index="19" value="20"/>
+            <StringItem index="20" value="21"/>
+            <StringItem index="21" value="22"/>
+            <StringItem index="22" value="23"/>
+            <StringItem index="23" value="24"/>
+            <StringItem index="24" value="25"/>
+            <StringItem index="25" value="26"/>
+            <StringItem index="26" value="27"/>
+            <StringItem index="27" value="28"/>
+            <StringItem index="28" value="29"/>
+            <StringItem index="29" value="30"/>
+          </StringArray>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="tgl30ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JComboBox" name="tgl29">
+      <Properties>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="28">
+            <StringItem index="0" value="01"/>
+            <StringItem index="1" value="02"/>
+            <StringItem index="2" value="03"/>
+            <StringItem index="3" value="04"/>
+            <StringItem index="4" value="05"/>
+            <StringItem index="5" value="06"/>
+            <StringItem index="6" value="07"/>
+            <StringItem index="7" value="08"/>
+            <StringItem index="8" value="09"/>
+            <StringItem index="9" value="10"/>
+            <StringItem index="10" value="11"/>
+            <StringItem index="11" value="12"/>
+            <StringItem index="12" value="13"/>
+            <StringItem index="13" value="14"/>
+            <StringItem index="14" value="15"/>
+            <StringItem index="15" value="16"/>
+            <StringItem index="16" value="17"/>
+            <StringItem index="17" value="18"/>
+            <StringItem index="18" value="19"/>
+            <StringItem index="19" value="20"/>
+            <StringItem index="20" value="21"/>
+            <StringItem index="21" value="22"/>
+            <StringItem index="22" value="23"/>
+            <StringItem index="23" value="24"/>
+            <StringItem index="24" value="25"/>
+            <StringItem index="25" value="26"/>
+            <StringItem index="26" value="27"/>
+            <StringItem index="27" value="28"/>
+          </StringArray>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="tgl29ActionPerformed"/>
+      </Events>
+    </Component>
+  </SubComponents>
+</Form>
