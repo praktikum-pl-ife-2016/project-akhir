@@ -1,33 +1,5 @@
 Project Akhir Praktikum Pemrograman Lanjut IF-E 2016
-===  
-####Soal 
-Buatlah sebuah aplikasi menggunakan bahasa Java. 
 
-####Tema :
- - Terserah
- - Tema setiap kelompok tidak boleh sama
-
-####Ketentuan :
-- Berbasis GUI
-- Dapat menyimpan dan membaca data melalui database atau file.
-- Boleh menggunakan GUI frame form atau manual
-- Boleh menggunakan library dari luar
-- Aplikasi dijadikan file .jar
-- Wajib menerapkan minimal 5 bab yang telah disampaikan
-
-
-####Kelompok :
- - Anggota kelompok tentukan sendiri 3-4 orang
-
-####Presentasi :
- - Sabtu 11 Juni 2016
-
-####Penggumpulan :
-- Tulis judul dan deskripsi aplikasi pada file **README.md** (edit file ini, ganti semua isinya dengan judul dan deskripsi aplikasi anda)
-- Isi data anggota kelompok di file **data-kelompok.md**
-- Tambahkan screenshot, terserah bagian mana, bagian yang menurut kalian paling baik (lebih dari satu kalau bisa) pada folder **screenshot**
-- Source code (langsung folder projectnya) ditambahkan di folder **src**
-- Tulis kesan atau hal menarik saat mengerjakan projek ini atau saat praktikum atau bebas apa saja di file **kesan.md** : )
-
-
-**Terima kasih atas kerjasamanya selama satu semester ini : )**
+Judul Program : Transaksi Apotek
+Deskripsi :
+Project ini adalah tentang transaksi yang ada di apotik. Cara pengoperasiannya adalah dengan cara login dulu, masukkan username dan password. Apabila login sudah berhasil maka kita akan masuk ke menu utama untuk melanjutkan pilihan transaksi selanjutnya. Dan menggunakan koneksi database untuk menyimpan data-data pasien, ada juga data obat dan rekomendasi obat. Project ini bisa menghitung berapa total pengeluaran pembeli.
